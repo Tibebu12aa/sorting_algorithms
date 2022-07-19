@@ -1,7 +1,6 @@
-# 0x1B. C - Sorting algorithms & Big O
+# This is the alx 0x1B. C - Sorting algorithms & Big O project
 
-## Description
-What you should learn from this project:
+## What you should learn from this project:
 
 * At least four different sorting algorithms
 * What is the Big O notation, and how to evaluate the time complexity of an algorithm
